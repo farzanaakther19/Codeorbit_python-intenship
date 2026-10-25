@@ -128,5 +128,4 @@ The three projects demonstrate the application of basic Python programming techn
 
 ## Author
 
-**Name:** Your Name
-**GitHub Profile:** YOUR_GITHUB_PROFILE_URL
+**Name:** Farzana Akther
